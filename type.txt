@@ -1,0 +1,6 @@
+- insertion sort
+- selection sort
+- quicksort
+- heapsort
+- merge sort
+
