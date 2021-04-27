@@ -1,7 +1,7 @@
 ***
-Algoritmi base -> GitHub 
-versione 1.0
+Versione 2.0
 
-primo commit personale
+Alg -> contiene algoritmi base 
+Scripts -> contiene piccolo scripts che eseguono operazioni base
 
 ***
